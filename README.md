@@ -1,6 +1,6 @@
 # Administrator EmailApplication
 
-I created this application after working part time at Best Buy, where I receieved
+I created this application after working at my part time retail job, where I receieved
 a customized email address and a random password my first day of work. I immediately
 hopped onto my Java IDE the next day and starting working on a project that would
 be able to emulate this same system. In my application the program will take in the 
